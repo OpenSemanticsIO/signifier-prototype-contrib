@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/io.opensemantics.prototype.contrib.feature_0.0.1.qualifier.jar" id="io.opensemantics.prototype.contrib.feature" version="0.0.1.qualifier">
+      <category name="io.opensemantics.prototype.contrib.category"/>
+   </feature>
+   <category-def name="io.opensemantics.prototype.contrib.category" label="Third-party EPL Source Redistributed"/>
+</site>

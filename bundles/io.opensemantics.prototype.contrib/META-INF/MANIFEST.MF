@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Third-party EPL Code
+Bundle-SymbolicName: io.opensemantics.prototype.contrib
+Bundle-Version: 0.0.1.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.11.0",
+ io.opensemantics.signifier.api;bundle-version="0.0.1"
+Export-Package: io.opensemantics.prototype.contrib.org.eclipse.mylyn.internal.commons.core,
+ io.opensemantics.prototype.contrib.org.eclipse.mylyn.internal.tasks.core,
+ io.opensemantics.prototype.contrib.org.eclipse.mylyn.internal.tasks.core.externalization
